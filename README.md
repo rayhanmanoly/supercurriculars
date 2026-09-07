@@ -4,7 +4,7 @@ School-facing web app for discovering supercurricular opportunities, building a 
 
 Designed to help support students' out-of-lesson learning in upper secondary years, whilst simultaneously making the student-teacher link during university application season more seamless.
 
-Originally designed for use at the British School Al Khubairat (BSAK). **This repository is a personal portfolio / demo project.** It is not an official BSAK product. The BSAK name and logo are trademarks of their respective owners; no affiliation or endorsement is implied.
+Originally designed for use at the British School Al Khubairat (BSAK). **This repository is a public facing version of a platform I developed in 2024.** It is not an official BSAK product. The BSAK name and logo are trademarks of their respective owners; no affiliation or endorsement is implied.
 
 ---
 
@@ -31,43 +31,64 @@ Demo catalogue data (16 opportunities + 4 events) ships with `supabase/init.sql`
 
 ## Screenshots
 
+
+
 ### Dashboard
 
-<img src="docs/screenshots/dashboard.png" alt="Dashboard" width="800" />
+
 
 ### Resource Hub
 
+
 | Catalogue | Opportunity detail |
-|:---------:|:------------------:|
-| <img src="docs/screenshots/resource-hub.png" alt="Resource Hub" width="400" /> | <img src="docs/screenshots/resource-details.png" alt="Resource details" width="400" /> |
+| --------- | ------------------ |
+|           |                    |
+
+
+
 
 ### Portfolio
 
+
 | Activities | Activity detail |
-|:----------:|:---------------:|
-| <img src="docs/screenshots/portfolio.png" alt="Portfolio" width="400" /> | <img src="docs/screenshots/portfolio-item-details.png" alt="Portfolio item details" width="400" /> |
+| ---------- | --------------- |
+|            |                 |
+
+
+
 
 ### Events
 
+
 | Event list | Event detail |
-|:----------:|:------------:|
-| <img src="docs/screenshots/events.png" alt="Events" width="400" /> | <img src="docs/screenshots/event-details.png" alt="Event details" width="400" /> |
+| ---------- | ------------ |
+|            |              |
+
+
+
 
 ### Mentoring
 
+
 | Subject picker | Browse mentors | Mentor profile |
-|:--------------:|:--------------:|:--------------:|
-| <img src="docs/screenshots/mentoring-subjects.png" alt="Mentoring subjects" width="260" /> | <img src="docs/screenshots/mentoring-browse.png" alt="Browse mentors" width="260" /> | <img src="docs/screenshots/mentor-page.png" alt="Mentor page" width="260" /> |
+| -------------- | -------------- | -------------- |
+|                |                |                |
+
+
 
 | My Mentoring (mentor tools) |
-|:---------------------------:|
-| <img src="docs/screenshots/my-mentoring.png" alt="My Mentoring" width="800" /> |
+| --------------------------- |
+|                             |
+
+
+
 
 ### Manage Resources
 
-<img src="docs/screenshots/manage-resources.png" alt="Manage Resources" width="800" />
+
 
 ---
+
 
 
 ## Tech stack
