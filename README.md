@@ -32,63 +32,43 @@ Demo catalogue data (16 opportunities + 4 events) ships with `supabase/init.sql`
 ## Screenshots
 
 
-
 ### Dashboard
 
-
+<img src="docs/screenshots/dashboard.png" alt="Dashboard" width="800" />
 
 ### Resource Hub
 
-
 | Catalogue | Opportunity detail |
-| --------- | ------------------ |
-|           |                    |
-
-
-
+|:---------:|:------------------:|
+| <img src="docs/screenshots/resource-hub.png" alt="Resource Hub" width="400" /> | <img src="docs/screenshots/resource-details.png" alt="Resource details" width="400" /> |
 
 ### Portfolio
 
-
 | Activities | Activity detail |
-| ---------- | --------------- |
-|            |                 |
-
-
-
+|:----------:|:---------------:|
+| <img src="docs/screenshots/portfolio.png" alt="Portfolio" width="400" /> | <img src="docs/screenshots/portfolio-item-details.png" alt="Portfolio item details" width="400" /> |
 
 ### Events
 
-
 | Event list | Event detail |
-| ---------- | ------------ |
-|            |              |
-
-
-
+|:----------:|:------------:|
+| <img src="docs/screenshots/events.png" alt="Events" width="400" /> | <img src="docs/screenshots/event-details.png" alt="Event details" width="400" /> |
 
 ### Mentoring
 
-
 | Subject picker | Browse mentors | Mentor profile |
-| -------------- | -------------- | -------------- |
-|                |                |                |
-
-
+|:--------------:|:--------------:|:--------------:|
+| <img src="docs/screenshots/mentoring-subjects.png" alt="Mentoring subjects" width="260" /> | <img src="docs/screenshots/mentoring-browse.png" alt="Browse mentors" width="260" /> | <img src="docs/screenshots/mentor-page.png" alt="Mentor page" width="260" /> |
 
 | My Mentoring (mentor tools) |
-| --------------------------- |
-|                             |
-
-
-
+|:---------------------------:|
+| <img src="docs/screenshots/my-mentoring.png" alt="My Mentoring" width="800" /> |
 
 ### Manage Resources
 
-
+<img src="docs/screenshots/manage-resources.png" alt="Manage Resources" width="800" />
 
 ---
-
 
 
 ## Tech stack
